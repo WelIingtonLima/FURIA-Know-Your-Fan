@@ -52,7 +52,7 @@ FURIA-Know-Your-Fan/
 
 O projeto inclui simulações de integração com IA para análise de dados. Em uma implementação real, o código está preparado para integração com a API da OpenAI:
 
-- No código PHP há comentários que demonstram como seria a implementação real com a API da OpenAI
+- No código PHP há linhas de código comentados que demonstram como seria a implementação real com a API da OpenAI
 - A função `generateAIFanProfile()` contém o pseudocódigo para a chamada à API
 - As análises de documento, perfil social e recomendações personalizadas atualmente são simuladas com JavaScript para fins educativos
 
